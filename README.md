@@ -1,5 +1,3 @@
-
-```markdown
 # Belly Boy Sample App
 
 Belly Boy Sample App is cross-platform application built in flutter. Currently this app is not fully functional and it is aimed to create user-friendly login UI that can run on different platforms
@@ -32,7 +30,9 @@ To get started follow the instructions given below and make sure you have stable
 
    ```sh
    git clone https://github.com/abrishwo/bellyboy-app-repo.git
+
    ```
+
 
 2. Navigate to the project directory:
 
@@ -57,7 +57,7 @@ To get started follow the instructions given below and make sure you have stable
 Connect your device either physical or virtual and then choice your prefered device, then you are good to go
 
 ## Project Structure
-
+```
 app/
 |-- lib/
 |   |-- core/
@@ -73,8 +73,7 @@ app/
 |   |   |-- routes.dart
 |   |   |-- theme.dart
 |-- main.dart
-
-
+```
 ## Screenshots
 
 ![Invalid Email Login Screen](https://www.dev.enatsoft.com/1.png)
@@ -96,5 +95,7 @@ app/
 This project is licensed under the [Enat Soft] - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
+
+
 
 This project is dependent on Getx and flutter lottie packages.
