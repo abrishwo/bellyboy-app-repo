@@ -72,7 +72,7 @@ app/
 |   |   |-- app.dart
 |   |   |-- routes.dart
 |   |   |-- theme.dart
-|-- main.dart
+|   |--- main.dart
 ```
 ## Screenshots
 
