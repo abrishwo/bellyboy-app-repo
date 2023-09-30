@@ -1,0 +1,163 @@
+ [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password1",
+      "age": 30,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password2",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "password": "password3",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "id": 4,
+      "name": "Bob Williams",
+      "email": "bob@example.com",
+      "password": "password4",
+      "age": 32,
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "name": "Eva Davis",
+      "email": "eva@example.com",
+      "password": "password5",
+      "age": 29,
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Michael Wilson",
+      "email": "michael@example.com",
+      "password": "password6",
+      "age": 27,
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Linda Brown",
+      "email": "linda@example.com",
+      "password": "password7",
+      "age": 35,
+      "gender": "Female"
+    },
+    {
+      "id": 8,
+      "name": "William Jones",
+      "email": "william@example.com",
+      "password": "password8",
+      "age": 31,
+      "gender": "Male"
+    },
+    {
+      "id": 9,
+      "name": "Sophia Lee",
+      "email": "sophia@example.com",
+      "password": "password9",
+      "age": 26,
+      "gender": "Female"
+    },
+    {
+      "id": 10,
+      "name": "David Martinez",
+      "email": "david@example.com",
+      "password": "password10",
+      "age": 33,
+      "gender": "Male"
+    },
+    {
+      "id": 11,
+      "name": "Olivia Taylor",
+      "email": "olivia@example.com",
+      "password": "password11",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "id": 12,
+      "name": "James Anderson",
+      "email": "james@example.com",
+      "password": "password12",
+      "age": 30,
+      "gender": "Male"
+    },
+    {
+      "id": 13,
+      "name": "Emily Clark",
+      "email": "emily@example.com",
+      "password": "password13",
+      "age": 27,
+      "gender": "Female"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Hall",
+      "email": "daniel@example.com",
+      "password": "password14",
+      "age": 29,
+      "gender": "Male"
+    },
+    {
+      "id": 15,
+      "name": "Ava Turner",
+      "email": "ava@example.com",
+      "password": "password15",
+      "age": 24,
+      "gender": "Female"
+    },
+    {
+      "id": 16,
+      "name": "Joseph Rodriguez",
+      "email": "joseph@example.com",
+      "password": "password16",
+      "age": 34,
+      "gender": "Male"
+    },
+    {
+      "id": 17,
+      "name": "Mia Young",
+      "email": "mia@example.com",
+      "password": "password17",
+      "age": 25,
+      "gender": "Female"
+    },
+    {
+      "id": 18,
+      "name": "Christopher Turner",
+      "email": "christopher@example.com",
+      "password": "password18",
+      "age": 31,
+      "gender": "Male"
+    },
+    {
+      "id": 19,
+      "name": "Emma Lewis",
+      "email": "emma@example.com",
+      "password": "password19",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "id": 20,
+      "name": "William White",
+      "email": "will@example.com",
+      "password": "password20",
+      "age": 29,
+      "gender": "Male"
+    }
+  ]
+  

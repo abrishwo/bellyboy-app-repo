@@ -1,0 +1,107 @@
+
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub/
+/build/
+/captures/
+/flutter_test_coverage/
+/ios/Pods/
+/ios/Runner.xcworkspace/
+/android/.gradle/
+/android/app/build/
+/android/build/
+/android/gradle/
+/.idea/
+/.fvm/
+/*.iml
+/*.lock
+/.metadata
+/.packages
+/.vscode/
+/.idea/
+.vscode/
+/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.pub-cache/
+
+# Exclude sensitive files containing secrets and keys
+/.env
+/.env.local
+/secrets.json
+/secrets.g.dart
+
+
+
+# Exclude Android build files
+/android/app/key.properties
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Web related
+lib/generated_plugin_registrant.dart
+/lib/generated/
+/web/flutter_service_worker.js
+/web/flutter_service_worker.dart.js
+/web/flutter_service_worker.dart.js.map
+
+# Exclude macOS build files
+/macos/Flutter/ephemeral/.plugin_symlinks
+/macos/Flutter/flutter_assets/
+/macos/Flutter/flutter_export_environment.sh
+/macos/Flutter/gen_snapshot
+/macos/Flutter/flutter_exported.sh
+
+# Exclude Xcode build files
+/ios/Flutter/ephemeral/.plugin_symlinks
+/ios/Flutter/flutter_assets/
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/gen_snapshot
+/ios/Flutter/flutter_exported.sh
+/ios/Flutter/App.framework
+
+# Exclude IntelliJ IDEA files
+.idea/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+
+# Exclude Android Studio files
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# Exclude Visual Studio Code settings
+.vscode/
+
+# Exclude macOS-specific files
+.DS_Store
+
+# Exclude Flutter analysis and testing directories
+.dart_tool/
+.pub/
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
